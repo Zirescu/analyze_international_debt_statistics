@@ -1,0 +1,6 @@
+"column_name","data_type"
+"country_name","character varying"
+"country_code","character varying"
+"indicator_name","text"
+"indicator_code","text"
+"debt","numeric"
